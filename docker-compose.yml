@@ -12,4 +12,4 @@ services:
   express_app:
     image: mat10243x/express_app
     ports:
-      - 5050:8080
+      - 8080:8080
